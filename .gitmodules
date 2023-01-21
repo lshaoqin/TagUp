@@ -1,0 +1,6 @@
+[submodule "CVWO_frontend"]
+	path = CVWO_frontend
+	url = https://github.com/lshaoqin/CVWO_frontend
+[submodule "cvwo_forum_backend"]
+	path = cvwo_forum_backend
+	url = https://github.com/lshaoqin/cvwo_forum_backend
